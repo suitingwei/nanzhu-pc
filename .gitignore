@@ -1,0 +1,14 @@
+public/access_token.json
+public/jsapi_ticket.json
+/vendor
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
+.env
+composer.lock
+*.log
+_ide_helper.php
+.idea/
+/storage
+/laradock
